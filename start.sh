@@ -1,7 +1,4 @@
 #!/bin/bash
-# Evil Twin Environment Startup Script
-# Author: Gemini
-
 # --- Configuration Variables (Adjust as needed) ---
 WLAN_INTERFACE="wlan0"
 DNSMASQ_CONF="/path/to/your/dnsmasq.conf"  # <<<<<<< 必填：请修改为您的实际路径！
