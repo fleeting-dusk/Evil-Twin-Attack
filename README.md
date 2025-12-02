@@ -3,7 +3,7 @@
 /etc/apache2/sites-enabled/000-default.conf和.htaccess，路径根据实际情况设置
 
 # 启动方式
-./start.sh
-sudo dnsmasq -C dnsmasq.conf -d
-sudo hostapd hostapdAP.conf
-web服务-DHCP&DNS-AP
+./start.sh<br>
+sudo dnsmasq -C dnsmasq.conf -d<br>
+sudo hostapd hostapdAP.conf<br>
+web服务-DHCP&DNS-AP<br>
